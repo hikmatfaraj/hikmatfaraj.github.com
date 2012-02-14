@@ -1,4 +1,32 @@
-This file was first created about 3 weeks ago
-This file is authored by Hikmat Faraj
-this is line 1
-this is line 2
+TThis file was first created about 3 weeks ago
+
+An example of how changes are made to a file in the repository, then staged, committed and pushed to the remote repository.
+
+1.	Clone the remote into the folder of your choice. 
+
+dhcp213124:git hikmatfaraj$ git clone git@github.com:hikmatfaraj/hikmatfaraj.github.com
+
+You will get something that looks like this:
+============================================
+
+Cloning into hikmatfaraj.github.com...
+remote: Counting objects: 31, done.
+remote: Compressing objects: 100% (23/23), done.
+remote: Total 31 (delta 11), reused 20 (delta 4)
+Receiving objects: 100% (31/31), 4.69 KiB, done.
+Resolving deltas: 100% (11/11), done.
+
+2.	Change into the newly created directory
+
+3.	To make changes in a file, you must first issue "git add <filename>"
+
+dhcp213124:hikmatfaraj.github.com hikmatfaraj$ git add README.
+
+4.	Make your changes in that file and save.
+
+5.	Issue the command "git commit -a -m "Updated 2/14 with rudimentary steps"
+
+6.	Issue command "git push origin master"
+
+
+
