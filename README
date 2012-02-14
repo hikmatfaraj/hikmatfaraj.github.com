@@ -24,7 +24,7 @@ dhcp213124:hikmatfaraj.github.com hikmatfaraj$ git add README.
 
 4.	Make your changes in that file and save.
 
-5.	Issue the command "git commit -a -m "Updated 2/14 with rudimentary steps"
+5.	Issue the command "git commit -a -m "This was updated just now"
 
 6.	Issue command "git push origin master"
 
