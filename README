@@ -20,6 +20,8 @@ Resolving deltas: 100% (11/11), done.
 
 3.	To make changes in a file, you must first issue "git add <filename>"
 
+4. In order to show hidden files in Mac OS X Lion (see http://www.joshklein.net/how-to-show-hidden-files-in-mac-os-x-lion)
+
 dhcp213124:hikmatfaraj.github.com hikmatfaraj$ git add README.
 
 4.	Make your changes in that file and save.
